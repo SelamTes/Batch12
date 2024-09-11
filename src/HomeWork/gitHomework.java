@@ -6,6 +6,7 @@ public class gitHomework {
 		System.out.println("BATCH 12:Git class Lecture");
 		int age = 12;
 		String name ="John";
+		//this is coming from ghihub
 		
 	}
 public static void add(int a, int b) {
