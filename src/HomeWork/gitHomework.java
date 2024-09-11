@@ -6,7 +6,7 @@ public class gitHomework {
 		String firstName = "John";
 		String lastName ="cena";
 		String city = "Reston";
-		
+		//This is fom getHub
 		}
 	}
 
