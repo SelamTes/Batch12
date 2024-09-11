@@ -4,6 +4,8 @@ public class gitHomework {
 	
 	public static void main (String[] args) {
 		System.out.println("BATCH 12:Git class Lecture");
+		int age = 12;
+		String name ="John";
 		
 	}
 public static void add(int a, int b) {
